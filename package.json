@@ -1,6 +1,6 @@
 {
   "name": "@jzone/normalize",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A cross-browser CSS foundation",
   "author": "zhixiaoqiang",
   "main": "normalize.css",
