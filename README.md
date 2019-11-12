@@ -1,4 +1,4 @@
-# @jzone/normalize [<img src="https://jzone.github.io/normalize/logo.svg" alt="normalize" width="90" height="90" align="right">][@jzone/normalize]
+# @jzone/normalize
 
 [@jzone/normalize] is a CSS library that provides consistent,
 cross-browser default styling of HTML elements.
