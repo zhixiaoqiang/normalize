@@ -1,0 +1,33 @@
+{
+  "name": "@jzone/normalize",
+  "version": "0.1.0",
+  "description": "A cross-browser CSS foundation",
+  "author": "zhixiaoqiang",
+  "main": "normalize.css",
+  "style": "normalize.css",
+  "files": [
+    "normalize.css",
+    "opinionated.css"
+  ],
+  "repository": {
+    "url": "https://github.com/zhixiaoqiang/normalize"
+  },
+  "license": "MIT",
+  "scripts": {
+    "prod": "node scripts/prod",
+    "release": "node scripts/release"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "dayjs": "^1.8.17",
+    "execa": "^3.2.0",
+    "inquirer": "^7.0.0",
+    "semver": "^6.3.0"
+  },
+  "keywords": [
+    "css",
+    "normalizes",
+    "browsers",
+    "fixes"
+  ]
+}
