@@ -40,7 +40,7 @@ module.exports = {
 
 **Download**
 
-See https://jzone.github.io/normalize
+See https://github.com/zhixiaoqiang/normalize#readme
 
 <br/>
 <br/>
